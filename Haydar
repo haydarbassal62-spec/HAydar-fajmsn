@@ -1,4 +1,4 @@
-ضimport requests
+import requests
 import random
 import os
 import time
