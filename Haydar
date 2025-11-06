@@ -12,7 +12,7 @@ else:
  TG - @ql_37 للإشتࢪآڪہ ࢪآسل ''')
 import datetime
 an = datetime.datetime.now()
-an2 = datetime.datetime(2025, 11, 29, 11, 59, 59)
+an2 = datetime.datetime(2026, 11, 29, 11, 59, 59)
 if an > an2 or an == an2:
     exit('''\033[1;31m
  EROR - عزيزي أنت غيࢪ مشتࢪڪہ
